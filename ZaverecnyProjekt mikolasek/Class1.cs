@@ -1,0 +1,1 @@
+﻿zaverecnyProjekt.Main();
